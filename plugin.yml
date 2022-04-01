@@ -1,0 +1,8 @@
+---
+name: EconomyApiBedrock
+author: RedSkyFallPM
+version: 1.0.0
+main: RedSkyFallPM\EconomyApiBedrock\Loader
+api: 4.0.0
+src-namespace-prefix: RedSkyFallPM\EconomyApiBedrock
+...
